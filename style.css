@@ -1,0 +1,173 @@
+#principal{
+    width: 700px;
+    height: 770px;
+    background-color: rgb(252, 224, 186);
+    margin: auto;
+}
+#oreja1{
+    width: 120px;
+    height: 120px;
+    border-radius: 50px;
+    background-color: #922B21 ;
+    position: relative;
+    left: 130px;
+    top: 50px;
+    transform: rotate(45deg);
+}
+#o-redondo1{
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background-color:#FFA07A;
+    position: relative;
+    left: 60px;
+    top: 25px;
+}
+#oreja2{
+    width: 120px;
+    height: 120px;
+    border-radius: 50px;
+    background-color: #922B21 ;
+    position: relative;
+    left: 430px;
+    top: -70px;
+    transform: rotate(45deg);
+}
+#o-redondo2{
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background-color: #FFA07A;
+    position: relative;
+    top: 60px;
+    left: 30px;
+}
+#cabeza{
+    width: 280px;
+    height: 280px;
+    background-color: #922B21 ;
+    border-radius: 50%;
+    position: relative;
+    left: 200px;
+    bottom: 138px;
+}
+#ojo1{
+    width: 60px;
+    height: 60px;
+    background-color: white;
+    border-radius: 50%;
+    position: relative;
+    top: 60px;
+    left: 60px;
+}
+#punto1{
+    width: 45px;
+    height: 45px;
+    background-color: black;
+    border-radius: 50%;
+    position: relative;
+    top: 15px;
+    left: 8px;
+}
+#ojo2{
+    width: 60px;
+    height: 60px;
+    background-color: white;
+    border-radius: 50%;
+    position: relative;
+    left: 160px;
+}
+#punto2{
+    width: 45px;
+    height: 45px;
+    background-color: black;
+    border-radius: 50%;
+    position: relative;
+    top: 15px;
+    left: 8px;
+}
+#nariz{
+    width: 25px;
+    height: 25px;
+    background-color: black;
+    border-radius: 50%;
+    position: relative;
+    left: 130px;
+    top: 30px;
+}
+#boca{
+    width: 100px;
+    height: 1px;
+    background-color: black;
+    position: relative;
+    top: 60px;
+    left: 90px;
+    border: 2px solid black;
+}
+#cuerpo{
+    width: 330px;
+    height: 330px;
+    background-color: #922B21;
+    border-radius: 50%;
+    position: relative;
+    bottom: 138px;
+    left: 176px;
+
+}
+#c-redondo{
+    width: 165px;
+    height: 165px;
+    background-color: #FFA07A;
+    border-radius: 50%;
+    position: relative;
+    top: 100px;
+    left: 80px;
+}
+#brazo-i{
+    width: 180px;
+    height: 100px;
+    background-color: #922B21 ;
+    border-radius: 50px;
+    position: relative;
+    bottom: 470px;
+    left: 50px;
+    transform: rotate(30deg);
+}
+#brazo-d{
+    width: 180px;
+    height: 100px;
+    background-color: #922B21 ;
+    border-radius: 50px;
+    position: relative;
+    bottom: 570px;
+    left: 460px;
+    transform: rotate(-30deg);}
+#pierna-i{
+    width: 120px;
+    height: 110px;
+    background-color: #922B21 ;
+    border-radius: 50px;
+    position: relative;
+    bottom: 410px;
+    left: 150px;
+    transform: rotate(50deg);
+}
+#pierna-d{
+    width: 120px;
+    height: 110px;
+    background-color: #922B21 ;
+    border-radius: 50px;
+    position: relative;
+    bottom: 520px;
+    left: 420px;
+    transform: rotate(-50deg);}
+#autor{
+    width: 700px;
+    height: 25px;
+    background-color: darkred;
+    margin: auto;
+}
+p{
+    text-align: center;
+    font-size: 22px;
+}
